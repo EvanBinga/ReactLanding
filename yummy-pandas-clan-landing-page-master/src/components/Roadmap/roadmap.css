@@ -1,0 +1,9 @@
+Picture = styled.img {
+    position: relative;
+    height: 60vh;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+   
